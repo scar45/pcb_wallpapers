@@ -1,15 +1,15 @@
 <resources>
 
-    <string name="app_name">AOKP Wallpapers</string>
-    <string name="title_activity_wallpaper">Swag Papers</string>
+    <string name="app_name">PCB Wallpapers</string>
+    <string name="title_activity_wallpaper">PCB Wallpapers</string>
     <string name="back">Previous</string>
     <string name="next">Next</string>
-    <string name="page">Page: </string>
+    <string name="page">Page:</string>
     <string name="set_wallpaper">Set as Wallpaper</string>
     <string name="save_wallpaper">Save to Storage</string>
     <string name="downloading">Downloading…</string>
-    <string name="wait">Please wait</string>
-    <string name="set">Wallpaper set!</string>
+    <string name="wait">Please Wait</string>
+    <string name="set">Wallpaper Set!</string>
     <string name="saved">Wallpaper saved to</string>
     <string name="jump">Jump to Page</string>
     <string name="jump2">Jump to Page:</string>

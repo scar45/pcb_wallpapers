@@ -1,5 +1,5 @@
 
-package com.aokp.swagpapers;
+package com.team.broccoli.pcb.wallpapers;
 
 public class Wallpaper {
 
