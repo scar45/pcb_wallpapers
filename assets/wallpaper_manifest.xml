@@ -14,7 +14,7 @@
         name="<wallpaper name">
     -->
 	
-    <category name="PCB Multi" >
+    <category name="PCB Multi" id="1">
 
         <wallpaper
             author="scar45"
@@ -42,7 +42,7 @@
 
     </category>
 
-    <category name="PCB Blue" >
+    <category name="PCB Blue" id="2">
 
         <wallpaper
             author="scar45"
@@ -70,7 +70,7 @@
 
     </category>
 	
-    <category name="PCB Black" >
+    <category name="PCB Black" id="3">
 
         <wallpaper
             author="scar45"
@@ -98,7 +98,7 @@
 
     </category>
 	
-    <category name="PCB Pink" >
+    <category name="PCB Pink" id="4">
 
         <wallpaper
             author="scar45"
@@ -126,7 +126,7 @@
 
     </category>
 	
-    <category name="PCB Purple" >
+    <category name="PCB Purple" id="5">
 
         <wallpaper
             author="scar45"
@@ -154,7 +154,7 @@
 
     </category>
 	
-    <category name="PCB Cyan" >
+    <category name="PCB Cyan" id="6">
 
         <wallpaper
             author="scar45"
@@ -182,7 +182,7 @@
 
     </category>
 	
-    <category name="PCB Green" >
+    <category name="PCB Green" id="7">
 
         <wallpaper
             author="scar45"
@@ -210,7 +210,7 @@
 
     </category>
 	
-    <category name="PCB Orange" >
+    <category name="PCB Orange" id="8">
 
         <wallpaper
             author="scar45"
@@ -238,7 +238,7 @@
 
     </category>
 	
-    <category name="PCB Red" >
+    <category name="PCB Red" id="9">
 
         <wallpaper
             author="scar45"
@@ -266,7 +266,7 @@
 
     </category>
 	
-    <category name="PCB Yellow" >
+    <category name="PCB Yellow" id="10">
 
         <wallpaper
             author="scar45"
@@ -294,7 +294,7 @@
 
     </category>
 	
-    <category name="PCB Carrot" >
+    <category name="PCB Carrot" id="11">
 
         <wallpaper
             author="scar45"
