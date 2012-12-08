@@ -59,7 +59,7 @@ public class WallpaperActivity extends Activity {
         mLoadingDialog = new ProgressDialog(this);
         mLoadingDialog.setCancelable(false);
         mLoadingDialog.setIndeterminate(true);
-        mLoadingDialog.setMessage("Retreiving wallpapers from server...");
+        mLoadingDialog.setMessage("Retrieving wallpapers from PCB web server...");
 
         mLoadingDialog.show();
         new LoadWallpaperManifest().execute();
