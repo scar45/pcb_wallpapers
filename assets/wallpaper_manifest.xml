@@ -13,36 +13,216 @@
         date="<date added>" may be used for filtering later
         name="<wallpaper name">
     -->
+	
+    <category name="PCB Multi" >
+
+        <wallpaper
+            author="scar45"
+            url="http://pcb.team.broc.co/li/wallpapers/pcb-multi-1.png" />
+
+        <wallpaper
+            author="scar45"
+            url="http://pcb.team.broc.co/li/wallpapers/pcb-multi-2.png" />
+
+        <wallpaper
+            author="scar45"
+            url="http://pcb.team.broc.co/li/wallpapers/pcb-multi-3.png" />
+
+        <wallpaper
+            author="scar45"
+            url="http://pcb.team.broc.co/li/wallpapers/pcb-multi-4.png" />
+
+    </category>
 
     <category name="PCB Blue" >
 
         <wallpaper
-            author="ThaPHLASH"
-            url="http://aokp.co/wallpapers/thaplash_logo_head_office.jpg" />
+            author="scar45"
+            url="http://pcb.team.broc.co/li/wallpapers/pcb-blue-1.png" />
 
         <wallpaper
-            author="ThaPHLASH"
-            url="http://aokp.co/wallpapers/thaplash_logo_head_office2.jpg" />
+            author="scar45"
+            url="http://pcb.team.broc.co/li/wallpapers/pcb-blue-2.png" />
+
+        <wallpaper
+            author="scar45"
+            url="http://pcb.team.broc.co/li/wallpapers/pcb-blue-3.png" />
+
+        <wallpaper
+            author="scar45"
+            url="http://pcb.team.broc.co/li/wallpapers/pcb-blue-4.png" />
 
     </category>
-
+	
     <category name="PCB Black" >
 
         <wallpaper
-            author="Bluewall"
-            url="http://aokp.co/wallpapers/bluewall_white_unicorn_and_blue.jpg" />
+            author="scar45"
+            url="http://pcb.team.broc.co/li/wallpapers/pcb-black-1.png" />
 
         <wallpaper
-            author="Bluewall"
-            url="http://aokp.co/wallpapers/bluewall_white_unicorn_and_green.jpg" />
+            author="scar45"
+            url="http://pcb.team.broc.co/li/wallpapers/pcb-black-2.png" />
 
         <wallpaper
-            author="Bluewall"
-            url="http://aokp.co/wallpapers/bluewall_white_unicorn_and_orange.jpg" />
+            author="scar45"
+            url="http://pcb.team.broc.co/li/wallpapers/pcb-black-3.png" />
 
         <wallpaper
-            author="JaiThemes"
-            url="http://aokp.co/wallpapers/jaithemes_setyourunicornfree.jpg" />
+            author="scar45"
+            url="http://pcb.team.broc.co/li/wallpapers/pcb-black-4.png" />
+
+    </category>
+	
+    <category name="PCB Pink" >
+
+        <wallpaper
+            author="scar45"
+            url="http://pcb.team.broc.co/li/wallpapers/pcb-pink-1.png" />
+
+        <wallpaper
+            author="scar45"
+            url="http://pcb.team.broc.co/li/wallpapers/pcb-pink-2.png" />
+
+        <wallpaper
+            author="scar45"
+            url="http://pcb.team.broc.co/li/wallpapers/pcb-pink-3.png" />
+
+        <wallpaper
+            author="scar45"
+            url="http://pcb.team.broc.co/li/wallpapers/pcb-pink-4.png" />
+
+    </category>
+	
+    <category name="PCB Purple" >
+
+        <wallpaper
+            author="scar45"
+            url="http://pcb.team.broc.co/li/wallpapers/pcb-purple-1.png" />
+
+        <wallpaper
+            author="scar45"
+            url="http://pcb.team.broc.co/li/wallpapers/pcb-purple-2.png" />
+
+        <wallpaper
+            author="scar45"
+            url="http://pcb.team.broc.co/li/wallpapers/pcb-purple-3.png" />
+
+        <wallpaper
+            author="scar45"
+            url="http://pcb.team.broc.co/li/wallpapers/pcb-purple-4.png" />
+
+    </category>
+	
+    <category name="PCB Cyan" >
+
+        <wallpaper
+            author="scar45"
+            url="http://pcb.team.broc.co/li/wallpapers/pcb-cyan-1.png" />
+
+        <wallpaper
+            author="scar45"
+            url="http://pcb.team.broc.co/li/wallpapers/pcb-cyan-2.png" />
+
+        <wallpaper
+            author="scar45"
+            url="http://pcb.team.broc.co/li/wallpapers/pcb-cyan-3.png" />
+
+        <wallpaper
+            author="scar45"
+            url="http://pcb.team.broc.co/li/wallpapers/pcb-cyan-4.png" />
+
+    </category>
+	
+    <category name="PCB Green" >
+
+        <wallpaper
+            author="scar45"
+            url="http://pcb.team.broc.co/li/wallpapers/pcb-green-1.png" />
+
+        <wallpaper
+            author="scar45"
+            url="http://pcb.team.broc.co/li/wallpapers/pcb-green-2.png" />
+
+        <wallpaper
+            author="scar45"
+            url="http://pcb.team.broc.co/li/wallpapers/pcb-green-3.png" />
+
+        <wallpaper
+            author="scar45"
+            url="http://pcb.team.broc.co/li/wallpapers/pcb-green-4.png" />
+
+    </category>
+	
+    <category name="PCB Orange" >
+
+        <wallpaper
+            author="scar45"
+            url="http://pcb.team.broc.co/li/wallpapers/pcb-orange-1.png" />
+
+        <wallpaper
+            author="scar45"
+            url="http://pcb.team.broc.co/li/wallpapers/pcb-orange-2.png" />
+
+        <wallpaper
+            author="scar45"
+            url="http://pcb.team.broc.co/li/wallpapers/pcb-orange-3.png" />
+
+        <wallpaper
+            author="scar45"
+            url="http://pcb.team.broc.co/li/wallpapers/pcb-orange-4.png" />
+
+    </category>
+	
+    <category name="PCB Red" >
+
+        <wallpaper
+            author="scar45"
+            url="http://pcb.team.broc.co/li/wallpapers/pcb-red-1.png" />
+
+        <wallpaper
+            author="scar45"
+            url="http://pcb.team.broc.co/li/wallpapers/pcb-red-2.png" />
+
+        <wallpaper
+            author="scar45"
+            url="http://pcb.team.broc.co/li/wallpapers/pcb-red-3.png" />
+
+        <wallpaper
+            author="scar45"
+            url="http://pcb.team.broc.co/li/wallpapers/pcb-red-4.png" />
+
+    </category>
+	
+    <category name="PCB Yellow" >
+
+        <wallpaper
+            author="scar45"
+            url="http://pcb.team.broc.co/li/wallpapers/pcb-yellow-1.png" />
+
+        <wallpaper
+            author="scar45"
+            url="http://pcb.team.broc.co/li/wallpapers/pcb-yellow-2.png" />
+
+        <wallpaper
+            author="scar45"
+            url="http://pcb.team.broc.co/li/wallpapers/pcb-yellow-3.png" />
+
+        <wallpaper
+            author="scar45"
+            url="http://pcb.team.broc.co/li/wallpapers/pcb-yellow-4.png" />
+
+    </category>
+	
+    <category name="PCB Carrot" >
+
+        <wallpaper
+            author="scar45"
+            url="http://pcb.team.broc.co/li/wallpapers/pcb-carrot-1.png" />
+
+        <wallpaper
+            author="scar45"
+            url="http://pcb.team.broc.co/li/wallpapers/pcb-carrot-2.png" />
 
     </category>
 
