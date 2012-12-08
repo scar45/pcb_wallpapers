@@ -18,18 +18,26 @@
 
         <wallpaper
             author="scar45"
+			name="Bright Multi"
+			thumbUrl="http://pcb.team.broc.co/li/wallpapers/pcb-multi-1_small.png"
             url="http://pcb.team.broc.co/li/wallpapers/pcb-multi-1.png" />
 
         <wallpaper
             author="scar45"
+			name="Dim Multi"
+			thumbUrl="http://pcb.team.broc.co/li/wallpapers/pcb-multi-2_small.png"
             url="http://pcb.team.broc.co/li/wallpapers/pcb-multi-2.png" />
 
         <wallpaper
             author="scar45"
+			name="Bright Multi w/Andy"
+			thumbUrl="http://pcb.team.broc.co/li/wallpapers/pcb-multi-3_small.png"		
             url="http://pcb.team.broc.co/li/wallpapers/pcb-multi-3.png" />
 
         <wallpaper
             author="scar45"
+			name="Dim Multi w/Andy"
+			thumbUrl="http://pcb.team.broc.co/li/wallpapers/pcb-multi-4_small.png"
             url="http://pcb.team.broc.co/li/wallpapers/pcb-multi-4.png" />
 
     </category>
@@ -38,18 +46,26 @@
 
         <wallpaper
             author="scar45"
+			name="Bright Blue"
+			thumbUrl="http://pcb.team.broc.co/li/wallpapers/pcb-blue-1_small.png"
             url="http://pcb.team.broc.co/li/wallpapers/pcb-blue-1.png" />
 
         <wallpaper
             author="scar45"
+			name="Dim Blue"
+			thumbUrl="http://pcb.team.broc.co/li/wallpapers/pcb-blue-2_small.png"
             url="http://pcb.team.broc.co/li/wallpapers/pcb-blue-2.png" />
 
         <wallpaper
             author="scar45"
+			name="Bright Blue w/Andy"
+			thumbUrl="http://pcb.team.broc.co/li/wallpapers/pcb-blue-3_small.png"
             url="http://pcb.team.broc.co/li/wallpapers/pcb-blue-3.png" />
 
         <wallpaper
             author="scar45"
+			name="Dim Blue w/Andy"
+			thumbUrl="http://pcb.team.broc.co/li/wallpapers/pcb-blue-4_small.png"
             url="http://pcb.team.broc.co/li/wallpapers/pcb-blue-4.png" />
 
     </category>
@@ -58,18 +74,26 @@
 
         <wallpaper
             author="scar45"
+			name="Bright Black"
+			thumbUrl="http://pcb.team.broc.co/li/wallpapers/pcb-black-1_small.png"
             url="http://pcb.team.broc.co/li/wallpapers/pcb-black-1.png" />
 
         <wallpaper
             author="scar45"
+			name="Dim Black"
+			thumbUrl="http://pcb.team.broc.co/li/wallpapers/pcb-black-2_small.png"
             url="http://pcb.team.broc.co/li/wallpapers/pcb-black-2.png" />
 
         <wallpaper
             author="scar45"
+			name="Bright Black w/Andy"
+			thumbUrl="http://pcb.team.broc.co/li/wallpapers/pcb-black-3_small.png"
             url="http://pcb.team.broc.co/li/wallpapers/pcb-black-3.png" />
 
         <wallpaper
             author="scar45"
+			name="Dim Black w/Andy"
+			thumbUrl="http://pcb.team.broc.co/li/wallpapers/pcb-black-4_small.png"
             url="http://pcb.team.broc.co/li/wallpapers/pcb-black-4.png" />
 
     </category>
@@ -78,18 +102,26 @@
 
         <wallpaper
             author="scar45"
+			name="Bright Pink"
+			thumbUrl="http://pcb.team.broc.co/li/wallpapers/pcb-pink-1_small.png"
             url="http://pcb.team.broc.co/li/wallpapers/pcb-pink-1.png" />
 
         <wallpaper
             author="scar45"
+			name="Dim Pink"
+			thumbUrl="http://pcb.team.broc.co/li/wallpapers/pcb-pink-2_small.png"
             url="http://pcb.team.broc.co/li/wallpapers/pcb-pink-2.png" />
 
         <wallpaper
             author="scar45"
+			name="Bright Pink w/Andy"
+			thumbUrl="http://pcb.team.broc.co/li/wallpapers/pcb-pink-3_small.png"
             url="http://pcb.team.broc.co/li/wallpapers/pcb-pink-3.png" />
 
         <wallpaper
             author="scar45"
+			name="Dim Pink w/Andy"
+			thumbUrl="http://pcb.team.broc.co/li/wallpapers/pcb-pink-4_small.png"
             url="http://pcb.team.broc.co/li/wallpapers/pcb-pink-4.png" />
 
     </category>
@@ -98,18 +130,26 @@
 
         <wallpaper
             author="scar45"
+			name="Bright Purple"
+			thumbUrl="http://pcb.team.broc.co/li/wallpapers/pcb-purple-1_small.png"
             url="http://pcb.team.broc.co/li/wallpapers/pcb-purple-1.png" />
 
         <wallpaper
             author="scar45"
+			name="Dim Purple"
+			thumbUrl="http://pcb.team.broc.co/li/wallpapers/pcb-purple-2_small.png"
             url="http://pcb.team.broc.co/li/wallpapers/pcb-purple-2.png" />
 
         <wallpaper
             author="scar45"
+			name="Bright Purple w/Andy"
+			thumbUrl="http://pcb.team.broc.co/li/wallpapers/pcb-purple-3_small.png"
             url="http://pcb.team.broc.co/li/wallpapers/pcb-purple-3.png" />
 
         <wallpaper
             author="scar45"
+			name="Dim Purple w/Andy"
+			thumbUrl="http://pcb.team.broc.co/li/wallpapers/pcb-purple-4_small.png"
             url="http://pcb.team.broc.co/li/wallpapers/pcb-purple-4.png" />
 
     </category>
@@ -118,18 +158,26 @@
 
         <wallpaper
             author="scar45"
+			name="Bright Cyan"
+			thumbUrl="http://pcb.team.broc.co/li/wallpapers/pcb-cyan-1_small.png"
             url="http://pcb.team.broc.co/li/wallpapers/pcb-cyan-1.png" />
 
         <wallpaper
             author="scar45"
+			name="Dim Cyan"
+			thumbUrl="http://pcb.team.broc.co/li/wallpapers/pcb-cyan-2_small.png"
             url="http://pcb.team.broc.co/li/wallpapers/pcb-cyan-2.png" />
 
         <wallpaper
             author="scar45"
+			name="Bright Cyan w/Andy"
+			thumbUrl="http://pcb.team.broc.co/li/wallpapers/pcb-cyan-3_small.png"
             url="http://pcb.team.broc.co/li/wallpapers/pcb-cyan-3.png" />
 
         <wallpaper
             author="scar45"
+			name="Dim Cyan w/Andy"
+			thumbUrl="http://pcb.team.broc.co/li/wallpapers/pcb-cyan-4_small.png"
             url="http://pcb.team.broc.co/li/wallpapers/pcb-cyan-4.png" />
 
     </category>
@@ -138,18 +186,26 @@
 
         <wallpaper
             author="scar45"
+			name="Bright Green"
+			thumbUrl="http://pcb.team.broc.co/li/wallpapers/pcb-green-1_small.png"
             url="http://pcb.team.broc.co/li/wallpapers/pcb-green-1.png" />
 
         <wallpaper
             author="scar45"
+			name="Dim Green"
+			thumbUrl="http://pcb.team.broc.co/li/wallpapers/pcb-green-2_small.png"
             url="http://pcb.team.broc.co/li/wallpapers/pcb-green-2.png" />
 
         <wallpaper
             author="scar45"
+			name="Bright Green w/Andy"
+			thumbUrl="http://pcb.team.broc.co/li/wallpapers/pcb-green-3_small.png"
             url="http://pcb.team.broc.co/li/wallpapers/pcb-green-3.png" />
 
         <wallpaper
             author="scar45"
+			name="Dim Green w/Andy"
+			thumbUrl="http://pcb.team.broc.co/li/wallpapers/pcb-green-4_small.png"
             url="http://pcb.team.broc.co/li/wallpapers/pcb-green-4.png" />
 
     </category>
@@ -158,18 +214,26 @@
 
         <wallpaper
             author="scar45"
+			name="Bright Orange"
+			thumbUrl="http://pcb.team.broc.co/li/wallpapers/pcb-orange-1_small.png"
             url="http://pcb.team.broc.co/li/wallpapers/pcb-orange-1.png" />
 
         <wallpaper
             author="scar45"
+			name="Dim Orange"
+			thumbUrl="http://pcb.team.broc.co/li/wallpapers/pcb-orange-2_small.png"
             url="http://pcb.team.broc.co/li/wallpapers/pcb-orange-2.png" />
 
         <wallpaper
             author="scar45"
+			name="Bright Orange w/Andy"
+			thumbUrl="http://pcb.team.broc.co/li/wallpapers/pcb-orange-3_small.png"
             url="http://pcb.team.broc.co/li/wallpapers/pcb-orange-3.png" />
 
         <wallpaper
             author="scar45"
+			name="Dim Orange w/Andy"
+			thumbUrl="http://pcb.team.broc.co/li/wallpapers/pcb-orange-4_small.png"
             url="http://pcb.team.broc.co/li/wallpapers/pcb-orange-4.png" />
 
     </category>
@@ -178,18 +242,26 @@
 
         <wallpaper
             author="scar45"
+			name="Bright Red"
+			thumbUrl="http://pcb.team.broc.co/li/wallpapers/pcb-red-1_small.png"
             url="http://pcb.team.broc.co/li/wallpapers/pcb-red-1.png" />
 
         <wallpaper
             author="scar45"
+			name="Dim Red"
+			thumbUrl="http://pcb.team.broc.co/li/wallpapers/pcb-red-2_small.png"
             url="http://pcb.team.broc.co/li/wallpapers/pcb-red-2.png" />
 
         <wallpaper
             author="scar45"
+			name="Bright Red w/Andy"
+			thumbUrl="http://pcb.team.broc.co/li/wallpapers/pcb-red-3_small.png"
             url="http://pcb.team.broc.co/li/wallpapers/pcb-red-3.png" />
 
         <wallpaper
             author="scar45"
+			name="Dim Red w/Andy"
+			thumbUrl="http://pcb.team.broc.co/li/wallpapers/pcb-red-4_small.png"
             url="http://pcb.team.broc.co/li/wallpapers/pcb-red-4.png" />
 
     </category>
@@ -198,18 +270,26 @@
 
         <wallpaper
             author="scar45"
+			name="Bright Yellow"
+			thumbUrl="http://pcb.team.broc.co/li/wallpapers/pcb-yellow-1_small.png"
             url="http://pcb.team.broc.co/li/wallpapers/pcb-yellow-1.png" />
 
         <wallpaper
             author="scar45"
+			name="Dim Yellow"
+			thumbUrl="http://pcb.team.broc.co/li/wallpapers/pcb-yellow-2_small.png"
             url="http://pcb.team.broc.co/li/wallpapers/pcb-yellow-2.png" />
 
         <wallpaper
             author="scar45"
+			name="Bright Yellow w/Andy"
+			thumbUrl="http://pcb.team.broc.co/li/wallpapers/pcb-yellow-3_small.png"
             url="http://pcb.team.broc.co/li/wallpapers/pcb-yellow-3.png" />
 
         <wallpaper
             author="scar45"
+			name="Dim Yellow w/Andy"
+			thumbUrl="http://pcb.team.broc.co/li/wallpapers/pcb-yellow-4_small.png"
             url="http://pcb.team.broc.co/li/wallpapers/pcb-yellow-4.png" />
 
     </category>
@@ -218,10 +298,14 @@
 
         <wallpaper
             author="scar45"
+			name="Bright Carrot"
+			thumbUrl="http://pcb.team.broc.co/li/wallpapers/pcb-carrot-1_small.png"
             url="http://pcb.team.broc.co/li/wallpapers/pcb-carrot-1.png" />
 
         <wallpaper
             author="scar45"
+			name="Dim Carrot"
+			thumbUrl="http://pcb.team.broc.co/li/wallpapers/pcb-carrot-2_small.png"
             url="http://pcb.team.broc.co/li/wallpapers/pcb-carrot-2.png" />
 
     </category>
